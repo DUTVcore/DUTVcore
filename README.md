@@ -60,8 +60,8 @@ Hardware Enthusiast, Overclocking Addict, and System Optimization Freak.
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DUTVcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUTVcore&layout=compact&theme=tokyonight"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DUTVcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUTVcore&layout=compact&theme=tokyonight"/> -->
   </a>
 </div>
 
