@@ -76,7 +76,7 @@ Your support helps me stay independent and continue building open-source tools a
 ### 📡 Connect With Me
 
 <p align="left">
-  <a href="https://www.facebook.com/plnboc" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a> <a href="https://zalo.me/0945749473" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"></a> <a href="https://hwbot.org/users/plnbcoder/" target="_blank"><img src="https://img.shields.io/badge/HWBOT-000000?style=for-the-badge&logo=speedtest&logoColor=white" alt="HWBOT"></a>
+  <a href="https://www.facebook.com/plnboc" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a> <a href="https://www.instagram.com/plnboverclocker/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a> <a href="https://zalo.me/0945749473" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"></a> <a href="https://hwbot.org/users/plnbcoder/" target="_blank"><img src="https://img.shields.io/badge/HWBOT-0D1932?style=for-the-badge&logo=speedtest&logoColor=white" alt="HWBOT"></a> <a href="https://konect.gg/nghienpc" target="_blank"><img src="https://img.shields.io/badge/Konect.gg-7000FF?style=for-the-badge&logo=linktree&logoColor=white" alt="Konect.gg"></a>
 </p>
 
 ---
