@@ -48,14 +48,49 @@ Hardware Enthusiast, Overclocking Addict, and System Optimization Freak.
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware-FF0000?style=for-the-badge&logo=asus&logoColor=white" />
   <img src="https://img.shields.io/badge/Overclocking-FFA500?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
+
+### 💖 Support My Work
+
+If my work or writing has inspired you 🌿
+Your support helps me stay independent and continue building open-source tools and ideas.
+
+| **ZaloPay (QR Code)** | **Buy Me a Coffee** |
+| :---: | :---: |
+| <img src="./qr.jpg" width="150" alt="ZaloPay QR"> | <a href="https://www.buymeacoffee.com/YOUR_USERNAME_HERE"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a><br><br>*(Click the badge above)* |
+
+---
+
+### 📡 Connect With Me
+
+<p align="left">
+  <a href="https://www.facebook.com/plnboc" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://zalo.me/0945749473" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo">
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    </a>
+</div>
 
 <div align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
