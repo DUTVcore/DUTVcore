@@ -69,7 +69,7 @@ Your support helps me stay independent and continue building open-source tools a
 
 | **ZaloPay (QR Code)** | **Buy Me a Coffee** |
 | :---: | :---: |
-| <img src="./qr.jpg" width="150" alt="ZaloPay QR"> | <a href="https://www.buymeacoffee.com/YOUR_USERNAME_HERE"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a><br><br>*(Click the badge above)* |
+| <img src="./qr.jpg" width="150" alt="ZaloPay QR"> | <a href="https://www.buymeacoffee.com/dutvcore"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a><br><br>*(Click the badge above)* |
 
 ---
 
