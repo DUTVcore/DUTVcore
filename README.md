@@ -18,19 +18,19 @@ Hardware Enthusiast, Overclocking Addict, and System Optimization Freak.
 
 | Component | Specification |
 | :--- | :--- |
-| **Motherboard** | ROG MAXIMUS **Z890 HERO** |
-| **CPU** | Intel® Core™ **Ultra 9 Processor 285K** |
+| **Motherboard** | ROG MAXIMUS **Z890 APEX** |
+| **CPU** | Intel® Core™ **Ultra 7 Processor 270K+** |
 | **GPU** | Colorful iGame **RTX 5090 D** Vulcan OC |
-| **RAM** | Trident Z5 RGB **256GB** (4x64GB) DDR5-6000 CL34 |
+| **RAM** | Trident Z5 RGB 128GB(64*2) F5-6000J3444F64GX2-TZ5RK |
 | **Cooling** | AIO Valkyrie B360-GT Black |
 | **PSU** | Asus ROG STRIX **1200P** Gaming Platinum (ATX 3.1) |
-| **Case** | SAMA 4503 *(I still can't believe I fit 4 HDDs in here!)* |
+| **Case** | ANTEC C8 WOOD |
 
-#### 💾 Storage System (Total Capacity: ~124 TB)
+#### 💾 Storage System (Total Capacity: ~118 TB)
 > *"Data is currency, Speed is life."*
 
 * **OS/Boot (Gen 5 Speed):**
-    * 2x SSD Samsung **9100 Pro 8TB** (PCIe Gen 5.0 x4) - *Raid 0*
+    * 1x SSD Samsung **9100 Pro 8TB** (PCIe Gen 5.0 x4) - *Raid 0*
 * **High-Speed Workspace:**
     * 4x SSD Kingston KC3000 **4TB** (NVMe Gen 4)
 * **The Vault (Mass Storage):**
